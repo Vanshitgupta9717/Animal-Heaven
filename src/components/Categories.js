@@ -18,7 +18,7 @@ function Categories() {
             <img src="/images/choose-piggy.jpeg" alt="" />
 
             <Wrap2>
-               <h2>blog 1</h2>
+               <h2>category 1</h2>
             </Wrap2>
 
             <Wrap3>
@@ -30,7 +30,7 @@ function Categories() {
             <img src="/images/Choose-cities.webp" alt="" />
 
             <Wrap2>
-               <h2>blog 2</h2>
+               <h2>category 2</h2>
             </Wrap2>
 
             <Wrap3>
@@ -42,7 +42,7 @@ function Categories() {
             <img src="/images/Choose-cashless.png" alt="" />
 
             <Wrap2>
-               <h2>blog 3</h2>
+               <h2>category 3</h2>
             </Wrap2>
 
             <Wrap3>
@@ -54,7 +54,7 @@ function Categories() {
             <img src="/images/choose-secure.jpeg" alt="" />
 
             <Wrap2>
-               <h2>blog 4</h2>
+               <h2>category 4</h2>
             </Wrap2>
 
             <Wrap4>
